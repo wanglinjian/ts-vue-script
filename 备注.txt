@@ -1,1 +1,25 @@
+文件夹 .vscode
 
+文件夹 @
+
+文件夹 pages
+
+文件夹 public
+
+文件夹 scr
+
+文件夹 src
+    文件夹 assets
+         文件夹 common
+         文件夹 request
+         文件夹 scss
+         文件夹 svg
+         
+    文件夹 components
+         文件夹 _tests_
+         文件夹 icons
+文件夹 router
+
+文件夹 stores
+
+文件夹 views
